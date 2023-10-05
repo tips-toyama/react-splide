@@ -1,8 +1,8 @@
 {
-  "name": "@splidejs/react-splide",
-  "version": "0.7.12",
+  "name": "@tips/react-splide",
+  "version": "0.0.1",
   "description": "The React component for Splide.",
-  "author": "Naotoshi Fujita",
+  "author": "Naotoshi Fujita, TIPS",
   "license": "MIT",
   "main": "dist/js/react-splide.cjs.js",
   "module": "dist/js/react-splide.esm.js",
@@ -19,10 +19,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Splidejs/react-splide.git"
+    "url": "https://github.com/tips-toyama/react-splide.git"
   },
   "bugs": {
-    "url": "https://github.com/Splidejs/react-splide/issues"
+    "url": "https://github.com/tips-toyama/react-splide/issues"
   },
   "devDependencies": {
     "@types/jest": "^29.0.0",
